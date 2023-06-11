@@ -8,6 +8,6 @@
 
 ### CoderRank
 
-<a href="https://profile.codersrank.io/user/kiranparajuli589/" target="_blank" title="@santoshdahal2016 skills chart">
+<a href="https://profile.codersrank.io/user/santoshdahal2016/" target="_blank" title="@santoshdahal2016 skills chart">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=santoshdahal2016" height="100%" width="100%">
 </a>
