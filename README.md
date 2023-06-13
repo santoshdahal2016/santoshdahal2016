@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Website-know%20more-blue" height="30" width="150" >
 </a>
 
-### CoderRank
+<!-- ### CoderRank
 
 <a href="https://profile.codersrank.io/user/santoshdahal2016/" target="_blank" title="@santoshdahal2016 skills chart">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=santoshdahal2016" height="100%" width="100%">
-</a>
+</a> -->
